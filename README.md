@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **Typescript**
-- 💬 Ask me about ...
+- 💬 Ask me about **MERN, PERN**
 - 📫 You can reach me on linkedIn &nbsp; [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayliang021/) &nbsp;  
 
 
