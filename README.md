@@ -1,3 +1,8 @@
+<div align="center">
+
+![MasterHead](https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif)
+</div>
+
 <h1 align="center">Hi, I'm May Liang👋</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
