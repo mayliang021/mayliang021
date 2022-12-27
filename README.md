@@ -40,5 +40,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayliang021)](https://git.io/streak-stats)
